@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* To run this project first you need to clone or download it 
 * [Contributing](#contributing)
 
 ## Instructions

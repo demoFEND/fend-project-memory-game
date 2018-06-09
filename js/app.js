@@ -25,6 +25,10 @@ function shuffle(array) {
     return array;
 }
 
+function foo() {
+    return console.log("Hi Foo!");
+}
+
 
 /*
  * set up the event listener for a card. If a card is clicked:
